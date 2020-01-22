@@ -1,0 +1,95 @@
+body{
+    background-image:url("../assets/images/asanoha-400px.png");
+}
+
+.container 
+
+
+.nav-link {
+    color:#aa654a;
+}
+
+
+h2 {
+    color: #aa654a;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+footer {
+    padding: 20px;
+    background-color:#666666;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: 8px solid #aa654a;
+    text-align: center;
+}
+
+
+
+.hangman{
+    position: relative;
+    background-color: #874aaa;
+    color: white;
+    padding: 15px;
+    bottom: 85px;
+    margin-left: 15px;
+    margin-right: 15px;
+   
+}
+
+.RPG-Game {
+    position: relative;
+    background-color: #874aaa;
+    color: white;
+    padding: 15px;
+    bottom: 85px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.Trivia-Game {
+    position: relative;
+    background-color: #874aaa;
+    color: white;
+    padding: 15px;
+    bottom: 85px;
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
+
+.Info-Widget {
+    position: relative;
+    background-color: #874aaa;
+    color: white;
+    padding: 15px;
+    bottom: 85px;
+    margin-left: 15px;
+    margin-right: 15px;
+   
+
+}
+
+.Rock-Paper-Scissors {
+    position: relative;
+    background-color: #874aaa;
+    color: white;
+    padding: 15px;
+    bottom: 85px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 15px;
+    margin-right: 15px;
+    
+
+}
+
+.Rock-Paper-Scissors h3{
+font-size: 20pt;
+
+}
+.linkContainer{
+    text-align: center;
+}
+
